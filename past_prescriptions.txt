@@ -1,0 +1,7 @@
+Patient: P003 | Age: 45 | Diagnosis: Asthma | History: Shortness of breath, Wheezing, Frequent coughing | Symptoms: Fever | Prescription: Paracetamol only
+
+Patient: P003 | Age: 45 | Diagnosis: Asthma | History: Shortness of breath, Wheezing, Frequent coughing | Symptoms: Fever | Prescription: Paracetamol 500mg tablets: one tablet every four to six hours as needed for fever, not exceeding four doses in 24 hours.  Albuterol inhaler: two puffs every four to six hours as needed for shortness of breath or wheezing.
+Patient: P001 | Age: 32 | Diagnosis: Hypertension | History: High BP, Mild chest pain | Symptoms: Headache | Prescription: Amlodipine 5mg tablets: one tablet daily.  Paracetamol 500mg tablets: one tablet every four to six hours as needed for headache, not exceeding four doses in 24 hours.
+Patient: P002 | Age: 28 | Diagnosis: Diabetes | History: Fatigue, Blurred vision | Symptoms: Leg pain | Prescription: acetaminophen (Tylenol) Only
+Patient: P002 | Age: 28 | Diagnosis: Diabetes | History: Fatigue, Blurred vision | Symptoms: Leg pain | Prescription: Metformin 500mg tablets: one tablet twice daily.  Acetaminophen 500mg tablets: one tablet every four to six hours as needed for leg pain, not exceeding four doses in 24 hours.
+Patient: P002 | Age: 28 | Diagnosis: Diabetes | History: Fatigue, Blurred vision | Symptoms: Leg pain | Prescription: Metformin 500mg tablets: one tablet twice daily.  Acetaminophen 500mg tablets: one tablet every four to six hours as needed for leg pain, not exceeding four doses in 24 hours.
